@@ -4,6 +4,10 @@
 
 /* This file is for your main application CSS */
 
+.tw-button {
+  @apply w-10 bg-blue-500;
+}
+
 /* Alerts and form errors used by phx.new */
 .alert {
   padding: 15px;
